@@ -19,3 +19,8 @@ Schematics:<br>
 Board view:<br>
 ![Top](images/top.png)
 ![Bottom](images/bottom.png)
+
+Assembled boards:
+![](images/assembled_1.jpg)
+![](images/assembled_2.jpg)
+![](images/assembled_3.jpg)
